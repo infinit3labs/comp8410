@@ -1,0 +1,161 @@
+,antecedents,consequents,lift,support,type
+50,"('gamble_freq_cat_1', 'pgsi_binary_1')","('atgs_cat_2',)",1.188172043,0.085972851,pgsi_binary_1
+51,"('atgs_cat_2', 'pgsi_binary_1')","('gamble_freq_cat_1',)",1.188172043,0.085972851,pgsi_binary_1
+52,"('gamble_freq_cat_1',)","('atgs_cat_2', 'pgsi_binary_1')",1.188172043,0.085972851,pgsi_binary_1
+53,"('atgs_cat_2',)","('gamble_freq_cat_1', 'pgsi_binary_1')",1.188172043,0.085972851,pgsi_binary_1
+54,"('pgsi_binary_1', 'gamble_freq_cat_2')","('atgs_cat_2',)",1.156059285,0.108597285,pgsi_binary_1
+55,"('atgs_cat_2', 'pgsi_binary_1')","('gamble_freq_cat_2',)",1.156059285,0.108597285,pgsi_binary_1
+56,"('gamble_freq_cat_2',)","('atgs_cat_2', 'pgsi_binary_1')",1.156059285,0.108597285,pgsi_binary_1
+57,"('atgs_cat_2',)","('pgsi_binary_1', 'gamble_freq_cat_2')",1.156059285,0.108597285,pgsi_binary_1
+58,"('Q18_cat_2', 'pgsi_binary_1')","('atgs_cat_2',)",1.171198157,0.104072398,pgsi_binary_1
+59,"('atgs_cat_2', 'pgsi_binary_1')","('Q18_cat_2',)",1.171198157,0.104072398,pgsi_binary_1
+60,"('Q18_cat_2',)","('atgs_cat_2', 'pgsi_binary_1')",1.171198157,0.104072398,pgsi_binary_1
+61,"('atgs_cat_2',)","('Q18_cat_2', 'pgsi_binary_1')",1.171198157,0.104072398,pgsi_binary_1
+62,"('Q20_cat_2', 'pgsi_binary_1')","('atgs_cat_2',)",1.17368214,0.122171946,pgsi_binary_1
+63,"('atgs_cat_2', 'pgsi_binary_1')","('Q20_cat_2',)",1.17368214,0.122171946,pgsi_binary_1
+64,"('Q20_cat_2',)","('atgs_cat_2', 'pgsi_binary_1')",1.17368214,0.122171946,pgsi_binary_1
+65,"('atgs_cat_2',)","('Q20_cat_2', 'pgsi_binary_1')",1.17368214,0.122171946,pgsi_binary_1
+74,"('atgs_cat_4', 'pgsi_binary_1')","('gamble_freq_cat_3',)",1.268253968,0.212669683,pgsi_binary_1
+75,"('pgsi_binary_1', 'gamble_freq_cat_3')","('atgs_cat_4',)",1.268253968,0.212669683,pgsi_binary_1
+76,"('atgs_cat_4',)","('pgsi_binary_1', 'gamble_freq_cat_3')",1.268253968,0.212669683,pgsi_binary_1
+77,"('gamble_freq_cat_3',)","('atgs_cat_4', 'pgsi_binary_1')",1.268253968,0.212669683,pgsi_binary_1
+78,"('atgs_cat_4', 'pgsi_binary_1')","('Q18_cat_1',)",1.214285714,0.099547511,pgsi_binary_1
+79,"('pgsi_binary_1', 'Q18_cat_1')","('atgs_cat_4',)",1.214285714,0.099547511,pgsi_binary_1
+80,"('atgs_cat_4',)","('pgsi_binary_1', 'Q18_cat_1')",1.214285714,0.099547511,pgsi_binary_1
+81,"('Q18_cat_1',)","('atgs_cat_4', 'pgsi_binary_1')",1.214285714,0.099547511,pgsi_binary_1
+88,"('atgs_cat_4', 'pgsi_binary_1')","('Q20_cat_1',)",1.110204082,0.14479638,pgsi_binary_1
+89,"('Q20_cat_1', 'pgsi_binary_1')","('atgs_cat_4',)",1.110204082,0.14479638,pgsi_binary_1
+90,"('atgs_cat_4',)","('Q20_cat_1', 'pgsi_binary_1')",1.110204082,0.14479638,pgsi_binary_1
+91,"('Q20_cat_1',)","('atgs_cat_4', 'pgsi_binary_1')",1.110204082,0.14479638,pgsi_binary_1
+92,"('atgs_cat_4', 'pgsi_binary_1')","('Q20_cat_3',)",1.183150183,0.085972851,pgsi_binary_1
+93,"('pgsi_binary_1', 'Q20_cat_3')","('atgs_cat_4',)",1.183150183,0.085972851,pgsi_binary_1
+94,"('atgs_cat_4',)","('pgsi_binary_1', 'Q20_cat_3')",1.183150183,0.085972851,pgsi_binary_1
+95,"('Q20_cat_3',)","('atgs_cat_4', 'pgsi_binary_1')",1.183150183,0.085972851,pgsi_binary_1
+96,"('atgs_cat_4', 'pgsi_binary_1')","('delay_count_0',)",1.188449848,0.104072398,pgsi_binary_1
+97,"('delay_count_0', 'pgsi_binary_1')","('atgs_cat_4',)",1.188449848,0.104072398,pgsi_binary_1
+98,"('atgs_cat_4',)","('delay_count_0', 'pgsi_binary_1')",1.188449848,0.104072398,pgsi_binary_1
+99,"('delay_count_0',)","('atgs_cat_4', 'pgsi_binary_1')",1.188449848,0.104072398,pgsi_binary_1
+100,"('delay_count_4', 'pgsi_binary_1')","('atgs_cat_4',)",1.136778116,0.099547511,pgsi_binary_1
+101,"('atgs_cat_4', 'pgsi_binary_1')","('delay_count_4',)",1.136778116,0.099547511,pgsi_binary_1
+102,"('delay_count_4',)","('atgs_cat_4', 'pgsi_binary_1')",1.136778116,0.099547511,pgsi_binary_1
+103,"('atgs_cat_4',)","('delay_count_4', 'pgsi_binary_1')",1.136778116,0.099547511,pgsi_binary_1
+104,"('gamble_freq_cat_1', 'pgsi_binary_1')","('delay_count_3',)",1.254385965,0.099547511,pgsi_binary_1
+105,"('delay_count_3', 'pgsi_binary_1')","('gamble_freq_cat_1',)",1.254385965,0.099547511,pgsi_binary_1
+106,"('gamble_freq_cat_1',)","('delay_count_3', 'pgsi_binary_1')",1.254385965,0.099547511,pgsi_binary_1
+107,"('delay_count_3',)","('gamble_freq_cat_1', 'pgsi_binary_1')",1.254385965,0.099547511,pgsi_binary_1
+114,"('pgsi_binary_1', 'gamble_freq_cat_2')","('Q18_cat_2',)",1.194594595,0.126696833,pgsi_binary_1
+115,"('Q18_cat_2', 'pgsi_binary_1')","('gamble_freq_cat_2',)",1.194594595,0.126696833,pgsi_binary_1
+116,"('gamble_freq_cat_2',)","('Q18_cat_2', 'pgsi_binary_1')",1.194594595,0.126696833,pgsi_binary_1
+117,"('Q18_cat_2',)","('pgsi_binary_1', 'gamble_freq_cat_2')",1.194594595,0.126696833,pgsi_binary_1
+124,"('lotto_count_2', 'pgsi_binary_1')","('gamble_freq_cat_2',)",1.101810548,0.171945701,pgsi_binary_1
+125,"('pgsi_binary_1', 'gamble_freq_cat_2')","('lotto_count_2',)",1.101810548,0.171945701,pgsi_binary_1
+126,"('lotto_count_2',)","('pgsi_binary_1', 'gamble_freq_cat_2')",1.101810548,0.171945701,pgsi_binary_1
+127,"('gamble_freq_cat_2',)","('lotto_count_2', 'pgsi_binary_1')",1.101810548,0.171945701,pgsi_binary_1
+132,"('pgsi_binary_1', 'gamble_freq_cat_3')","('Q20_cat_1',)",1.122539683,0.14479638,pgsi_binary_1
+133,"('Q20_cat_1', 'pgsi_binary_1')","('gamble_freq_cat_3',)",1.122539683,0.14479638,pgsi_binary_1
+134,"('gamble_freq_cat_3',)","('Q20_cat_1', 'pgsi_binary_1')",1.122539683,0.14479638,pgsi_binary_1
+135,"('Q20_cat_1',)","('pgsi_binary_1', 'gamble_freq_cat_3')",1.122539683,0.14479638,pgsi_binary_1
+136,"('pgsi_binary_1', 'gamble_freq_cat_3')","('Q20_cat_2',)",1.167886179,0.176470588,pgsi_binary_1
+137,"('Q20_cat_2', 'pgsi_binary_1')","('gamble_freq_cat_3',)",1.167886179,0.176470588,pgsi_binary_1
+138,"('gamble_freq_cat_3',)","('Q20_cat_2', 'pgsi_binary_1')",1.167886179,0.176470588,pgsi_binary_1
+139,"('Q20_cat_2',)","('pgsi_binary_1', 'gamble_freq_cat_3')",1.167886179,0.176470588,pgsi_binary_1
+140,"('delay_count_4', 'pgsi_binary_1')","('gamble_freq_cat_3',)",1.201654846,0.104072398,pgsi_binary_1
+141,"('pgsi_binary_1', 'gamble_freq_cat_3')","('delay_count_4',)",1.201654846,0.104072398,pgsi_binary_1
+142,"('delay_count_4',)","('pgsi_binary_1', 'gamble_freq_cat_3')",1.201654846,0.104072398,pgsi_binary_1
+143,"('gamble_freq_cat_3',)","('delay_count_4', 'pgsi_binary_1')",1.201654846,0.104072398,pgsi_binary_1
+144,"('pgsi_binary_1', 'Q18_cat_1')","('Q20_cat_1',)",1.435064935,0.090497738,pgsi_binary_1
+145,"('Q20_cat_1', 'pgsi_binary_1')","('Q18_cat_1',)",1.435064935,0.090497738,pgsi_binary_1
+146,"('Q18_cat_1',)","('Q20_cat_1', 'pgsi_binary_1')",1.435064935,0.090497738,pgsi_binary_1
+147,"('Q20_cat_1',)","('pgsi_binary_1', 'Q18_cat_1')",1.435064935,0.090497738,pgsi_binary_1
+148,"('lotto_count_2', 'pgsi_binary_1')","('Q18_cat_2',)",1.195423024,0.176470588,pgsi_binary_1
+149,"('Q18_cat_2', 'pgsi_binary_1')","('lotto_count_2',)",1.195423024,0.176470588,pgsi_binary_1
+150,"('lotto_count_2',)","('Q18_cat_2', 'pgsi_binary_1')",1.195423024,0.176470588,pgsi_binary_1
+151,"('Q18_cat_2',)","('lotto_count_2', 'pgsi_binary_1')",1.195423024,0.176470588,pgsi_binary_1
+152,"('Q18_cat_2', 'pgsi_binary_1')","('Q20_cat_1',)",1.172653061,0.117647059,pgsi_binary_1
+153,"('Q20_cat_1', 'pgsi_binary_1')","('Q18_cat_2',)",1.172653061,0.117647059,pgsi_binary_1
+154,"('Q18_cat_2',)","('Q20_cat_1', 'pgsi_binary_1')",1.172653061,0.117647059,pgsi_binary_1
+155,"('Q20_cat_1',)","('Q18_cat_2', 'pgsi_binary_1')",1.172653061,0.117647059,pgsi_binary_1
+156,"('lotto_count_3', 'pgsi_binary_1')","('Q18_cat_3',)",1.841666667,0.113122172,pgsi_binary_1
+157,"('Q18_cat_3', 'pgsi_binary_1')","('lotto_count_3',)",1.841666667,0.113122172,pgsi_binary_1
+158,"('lotto_count_3',)","('Q18_cat_3', 'pgsi_binary_1')",1.841666667,0.113122172,pgsi_binary_1
+159,"('Q18_cat_3',)","('lotto_count_3', 'pgsi_binary_1')",1.841666667,0.113122172,pgsi_binary_1
+160,"('Q20_cat_2', 'pgsi_binary_1')","('Q18_cat_3',)",1.12296748,0.113122172,pgsi_binary_1
+161,"('Q18_cat_3', 'pgsi_binary_1')","('Q20_cat_2',)",1.12296748,0.113122172,pgsi_binary_1
+162,"('Q20_cat_2',)","('Q18_cat_3', 'pgsi_binary_1')",1.12296748,0.113122172,pgsi_binary_1
+163,"('Q18_cat_3',)","('Q20_cat_2', 'pgsi_binary_1')",1.12296748,0.113122172,pgsi_binary_1
+164,"('delay_count_3', 'pgsi_binary_1')","('Q18_cat_3',)",1.1375,0.095022624,pgsi_binary_1
+165,"('Q18_cat_3', 'pgsi_binary_1')","('delay_count_3',)",1.1375,0.095022624,pgsi_binary_1
+166,"('delay_count_3',)","('Q18_cat_3', 'pgsi_binary_1')",1.1375,0.095022624,pgsi_binary_1
+167,"('Q18_cat_3',)","('delay_count_3', 'pgsi_binary_1')",1.1375,0.095022624,pgsi_binary_1
+168,"('lotto_count_2', 'pgsi_binary_1')","('delay_count_4',)",1.323900021,0.131221719,pgsi_binary_1
+169,"('delay_count_4', 'pgsi_binary_1')","('lotto_count_2',)",1.323900021,0.131221719,pgsi_binary_1
+170,"('lotto_count_2',)","('delay_count_4', 'pgsi_binary_1')",1.323900021,0.131221719,pgsi_binary_1
+171,"('delay_count_4',)","('lotto_count_2', 'pgsi_binary_1')",1.323900021,0.131221719,pgsi_binary_1
+172,"('delay_count_0', 'pgsi_binary_1')","('Q20_cat_1',)",1.410638298,0.095022624,pgsi_binary_1
+173,"('Q20_cat_1', 'pgsi_binary_1')","('delay_count_0',)",1.410638298,0.095022624,pgsi_binary_1
+174,"('delay_count_0',)","('Q20_cat_1', 'pgsi_binary_1')",1.410638298,0.095022624,pgsi_binary_1
+175,"('Q20_cat_1',)","('delay_count_0', 'pgsi_binary_1')",1.410638298,0.095022624,pgsi_binary_1
+176,"('delay_count_3', 'pgsi_binary_1')","('Q20_cat_2',)",1.228658537,0.140271493,pgsi_binary_1
+177,"('Q20_cat_2', 'pgsi_binary_1')","('delay_count_3',)",1.228658537,0.140271493,pgsi_binary_1
+178,"('delay_count_3',)","('Q20_cat_2', 'pgsi_binary_1')",1.228658537,0.140271493,pgsi_binary_1
+179,"('Q20_cat_2',)","('delay_count_3', 'pgsi_binary_1')",1.228658537,0.140271493,pgsi_binary_1
+180,"('lotto_count_2', 'atgs_cat_4', 'pgsi_binary_1')","('gamble_freq_cat_3',)",1.28115942,0.108597285,pgsi_binary_1
+181,"('lotto_count_2', 'pgsi_binary_1', 'gamble_freq_cat_3')","('atgs_cat_4',)",1.421602787,0.108597285,pgsi_binary_1
+182,"('lotto_count_2', 'atgs_cat_4')","('pgsi_binary_1', 'gamble_freq_cat_3')",1.28115942,0.108597285,pgsi_binary_1
+183,"('lotto_count_2', 'gamble_freq_cat_3')","('atgs_cat_4', 'pgsi_binary_1')",1.421602787,0.108597285,pgsi_binary_1
+184,"('atgs_cat_4', 'pgsi_binary_1')","('lotto_count_2', 'gamble_freq_cat_3')",1.421602787,0.108597285,pgsi_binary_1
+185,"('pgsi_binary_1', 'gamble_freq_cat_3')","('lotto_count_2', 'atgs_cat_4')",1.28115942,0.108597285,pgsi_binary_1
+186,"('atgs_cat_4',)","('lotto_count_2', 'pgsi_binary_1', 'gamble_freq_cat_3')",1.421602787,0.108597285,pgsi_binary_1
+187,"('gamble_freq_cat_3',)","('lotto_count_2', 'atgs_cat_4', 'pgsi_binary_1')",1.28115942,0.108597285,pgsi_binary_1
+188,"('pgsi_binary_1', 'Q20_cat_2', 'gamble_freq_cat_3')","('atgs_cat_4',)",1.183150183,0.085972851,pgsi_binary_1
+189,"('atgs_cat_4', 'Q20_cat_2', 'pgsi_binary_1')","('gamble_freq_cat_3',)",1.608812261,0.085972851,pgsi_binary_1
+190,"('Q20_cat_2', 'gamble_freq_cat_3')","('atgs_cat_4', 'pgsi_binary_1')",1.183150183,0.085972851,pgsi_binary_1
+191,"('pgsi_binary_1', 'gamble_freq_cat_3')","('atgs_cat_4', 'Q20_cat_2')",1.608812261,0.085972851,pgsi_binary_1
+192,"('atgs_cat_4', 'Q20_cat_2')","('pgsi_binary_1', 'gamble_freq_cat_3')",1.608812261,0.085972851,pgsi_binary_1
+193,"('atgs_cat_4', 'pgsi_binary_1')","('Q20_cat_2', 'gamble_freq_cat_3')",1.183150183,0.085972851,pgsi_binary_1
+194,"('gamble_freq_cat_3',)","('atgs_cat_4', 'Q20_cat_2', 'pgsi_binary_1')",1.608812261,0.085972851,pgsi_binary_1
+195,"('atgs_cat_4',)","('pgsi_binary_1', 'Q20_cat_2', 'gamble_freq_cat_3')",1.183150183,0.085972851,pgsi_binary_1
+196,"('lotto_count_2', 'atgs_cat_4', 'pgsi_binary_1')","('Q20_cat_1',)",1.235403727,0.081447964,pgsi_binary_1
+197,"('lotto_count_2', 'Q20_cat_1', 'pgsi_binary_1')","('atgs_cat_4',)",1.457142857,0.081447964,pgsi_binary_1
+198,"('atgs_cat_4', 'Q20_cat_1', 'pgsi_binary_1')","('lotto_count_2',)",1.206917476,0.081447964,pgsi_binary_1
+199,"('lotto_count_2', 'atgs_cat_4')","('Q20_cat_1', 'pgsi_binary_1')",1.235403727,0.081447964,pgsi_binary_1
+200,"('lotto_count_2', 'Q20_cat_1')","('atgs_cat_4', 'pgsi_binary_1')",1.457142857,0.081447964,pgsi_binary_1
+201,"('lotto_count_2', 'pgsi_binary_1')","('atgs_cat_4', 'Q20_cat_1')",1.206917476,0.081447964,pgsi_binary_1
+202,"('atgs_cat_4', 'Q20_cat_1')","('lotto_count_2', 'pgsi_binary_1')",1.206917476,0.081447964,pgsi_binary_1
+203,"('atgs_cat_4', 'pgsi_binary_1')","('lotto_count_2', 'Q20_cat_1')",1.457142857,0.081447964,pgsi_binary_1
+204,"('Q20_cat_1', 'pgsi_binary_1')","('lotto_count_2', 'atgs_cat_4')",1.235403727,0.081447964,pgsi_binary_1
+205,"('lotto_count_2',)","('atgs_cat_4', 'Q20_cat_1', 'pgsi_binary_1')",1.206917476,0.081447964,pgsi_binary_1
+206,"('atgs_cat_4',)","('lotto_count_2', 'Q20_cat_1', 'pgsi_binary_1')",1.457142857,0.081447964,pgsi_binary_1
+207,"('Q20_cat_1',)","('lotto_count_2', 'atgs_cat_4', 'pgsi_binary_1')",1.235403727,0.081447964,pgsi_binary_1
+208,"('lotto_count_2', 'pgsi_binary_1', 'gamble_freq_cat_2')","('Q18_cat_2',)",1.661654135,0.090497738,pgsi_binary_1
+209,"('lotto_count_2', 'Q18_cat_2', 'pgsi_binary_1')","('gamble_freq_cat_2',)",1.531531532,0.090497738,pgsi_binary_1
+210,"('Q18_cat_2', 'pgsi_binary_1', 'gamble_freq_cat_2')","('lotto_count_2',)",1.53259362,0.090497738,pgsi_binary_1
+211,"('lotto_count_2', 'gamble_freq_cat_2')","('Q18_cat_2', 'pgsi_binary_1')",1.661654135,0.090497738,pgsi_binary_1
+212,"('lotto_count_2', 'Q18_cat_2')","('pgsi_binary_1', 'gamble_freq_cat_2')",1.531531532,0.090497738,pgsi_binary_1
+213,"('lotto_count_2', 'pgsi_binary_1')","('Q18_cat_2', 'gamble_freq_cat_2')",1.53259362,0.090497738,pgsi_binary_1
+214,"('Q18_cat_2', 'gamble_freq_cat_2')","('lotto_count_2', 'pgsi_binary_1')",1.53259362,0.090497738,pgsi_binary_1
+215,"('pgsi_binary_1', 'gamble_freq_cat_2')","('lotto_count_2', 'Q18_cat_2')",1.531531532,0.090497738,pgsi_binary_1
+216,"('Q18_cat_2', 'pgsi_binary_1')","('lotto_count_2', 'gamble_freq_cat_2')",1.661654135,0.090497738,pgsi_binary_1
+217,"('lotto_count_2',)","('Q18_cat_2', 'pgsi_binary_1', 'gamble_freq_cat_2')",1.53259362,0.090497738,pgsi_binary_1
+218,"('gamble_freq_cat_2',)","('lotto_count_2', 'Q18_cat_2', 'pgsi_binary_1')",1.531531532,0.090497738,pgsi_binary_1
+219,"('Q18_cat_2',)","('lotto_count_2', 'pgsi_binary_1', 'gamble_freq_cat_2')",1.661654135,0.090497738,pgsi_binary_1
+220,"('lotto_count_2', 'pgsi_binary_1', 'gamble_freq_cat_2')","('Q20_cat_2',)",1.276636714,0.081447964,pgsi_binary_1
+221,"('lotto_count_2', 'Q20_cat_2', 'pgsi_binary_1')","('gamble_freq_cat_2',)",1.27992278,0.081447964,pgsi_binary_1
+222,"('pgsi_binary_1', 'Q20_cat_2', 'gamble_freq_cat_2')","('lotto_count_2',)",1.430420712,0.081447964,pgsi_binary_1
+223,"('lotto_count_2', 'gamble_freq_cat_2')","('Q20_cat_2', 'pgsi_binary_1')",1.276636714,0.081447964,pgsi_binary_1
+224,"('lotto_count_2', 'Q20_cat_2')","('pgsi_binary_1', 'gamble_freq_cat_2')",1.27992278,0.081447964,pgsi_binary_1
+225,"('lotto_count_2', 'pgsi_binary_1')","('Q20_cat_2', 'gamble_freq_cat_2')",1.430420712,0.081447964,pgsi_binary_1
+226,"('Q20_cat_2', 'gamble_freq_cat_2')","('lotto_count_2', 'pgsi_binary_1')",1.430420712,0.081447964,pgsi_binary_1
+227,"('pgsi_binary_1', 'gamble_freq_cat_2')","('lotto_count_2', 'Q20_cat_2')",1.27992278,0.081447964,pgsi_binary_1
+228,"('Q20_cat_2', 'pgsi_binary_1')","('lotto_count_2', 'gamble_freq_cat_2')",1.276636714,0.081447964,pgsi_binary_1
+229,"('lotto_count_2',)","('pgsi_binary_1', 'Q20_cat_2', 'gamble_freq_cat_2')",1.430420712,0.081447964,pgsi_binary_1
+230,"('gamble_freq_cat_2',)","('lotto_count_2', 'Q20_cat_2', 'pgsi_binary_1')",1.27992278,0.081447964,pgsi_binary_1
+231,"('Q20_cat_2',)","('lotto_count_2', 'pgsi_binary_1', 'gamble_freq_cat_2')",1.276636714,0.081447964,pgsi_binary_1
+232,"('lotto_count_2', 'pgsi_binary_1', 'gamble_freq_cat_3')","('Q20_cat_2',)",1.248958953,0.085972851,pgsi_binary_1
+233,"('lotto_count_2', 'Q20_cat_2', 'pgsi_binary_1')","('gamble_freq_cat_3',)",1.110846561,0.085972851,pgsi_binary_1
+234,"('lotto_count_2', 'gamble_freq_cat_3')","('Q20_cat_2', 'pgsi_binary_1')",1.248958953,0.085972851,pgsi_binary_1
+235,"('lotto_count_2', 'Q20_cat_2')","('pgsi_binary_1', 'gamble_freq_cat_3')",1.110846561,0.085972851,pgsi_binary_1
+236,"('pgsi_binary_1', 'gamble_freq_cat_3')","('lotto_count_2', 'Q20_cat_2')",1.110846561,0.085972851,pgsi_binary_1
+237,"('Q20_cat_2', 'pgsi_binary_1')","('lotto_count_2', 'gamble_freq_cat_3')",1.248958953,0.085972851,pgsi_binary_1
+238,"('gamble_freq_cat_3',)","('lotto_count_2', 'Q20_cat_2', 'pgsi_binary_1')",1.110846561,0.085972851,pgsi_binary_1
+239,"('Q20_cat_2',)","('lotto_count_2', 'pgsi_binary_1', 'gamble_freq_cat_3')",1.248958953,0.085972851,pgsi_binary_1

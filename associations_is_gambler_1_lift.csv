@@ -1,0 +1,21 @@
+,antecedents,consequents,lift,support,type
+10,"('is_gambler_1', 'Q18_cat_1')","('Q20_cat_1',)",1.378184516,0.105527638,is_gambler_1
+11,"('Q20_cat_1', 'is_gambler_1')","('Q18_cat_1',)",1.378184516,0.105527638,is_gambler_1
+12,"('Q18_cat_1',)","('Q20_cat_1', 'is_gambler_1')",1.378184516,0.105527638,is_gambler_1
+13,"('Q20_cat_1',)","('is_gambler_1', 'Q18_cat_1')",1.378184516,0.105527638,is_gambler_1
+14,"('Q18_cat_2', 'is_gambler_1')","('Q20_cat_1',)",1.133903134,0.118927973,is_gambler_1
+15,"('Q20_cat_1', 'is_gambler_1')","('Q18_cat_2',)",1.133903134,0.118927973,is_gambler_1
+16,"('Q18_cat_2',)","('Q20_cat_1', 'is_gambler_1')",1.133903134,0.118927973,is_gambler_1
+17,"('Q20_cat_1',)","('Q18_cat_2', 'is_gambler_1')",1.133903134,0.118927973,is_gambler_1
+18,"('Q18_cat_2', 'is_gambler_1')","('Q20_cat_2',)",1.131412327,0.147403685,is_gambler_1
+19,"('Q20_cat_2', 'is_gambler_1')","('Q18_cat_2',)",1.131412327,0.147403685,is_gambler_1
+20,"('Q18_cat_2',)","('Q20_cat_2', 'is_gambler_1')",1.131412327,0.147403685,is_gambler_1
+21,"('Q20_cat_2',)","('Q18_cat_2', 'is_gambler_1')",1.131412327,0.147403685,is_gambler_1
+22,"('is_gambler_1', 'Q18_cat_3')","('Q20_cat_2',)",1.155318234,0.090452261,is_gambler_1
+23,"('Q20_cat_2', 'is_gambler_1')","('Q18_cat_3',)",1.155318234,0.090452261,is_gambler_1
+24,"('Q18_cat_3',)","('Q20_cat_2', 'is_gambler_1')",1.155318234,0.090452261,is_gambler_1
+25,"('Q20_cat_2',)","('is_gambler_1', 'Q18_cat_3')",1.155318234,0.090452261,is_gambler_1
+26,"('delay_count_3', 'is_gambler_1')","('Q20_cat_3',)",1.129078014,0.08040201,is_gambler_1
+27,"('is_gambler_1', 'Q20_cat_3')","('delay_count_3',)",1.129078014,0.08040201,is_gambler_1
+28,"('delay_count_3',)","('is_gambler_1', 'Q20_cat_3')",1.129078014,0.08040201,is_gambler_1
+29,"('Q20_cat_3',)","('delay_count_3', 'is_gambler_1')",1.129078014,0.08040201,is_gambler_1
